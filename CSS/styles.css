@@ -1,0 +1,134 @@
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.top-h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', serif;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+hr{
+
+   border: dotted #EAF6f6 6px;
+   border-bottom: none;
+   width: 4%;
+
+
+}
+
+
+h2 {
+  font-family: 'Montserrat', serif;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 100px auto 100px auto;
+}
+
+h3 {
+  font-family: 'Montserrat', serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Montserrat', serif;
+}
+
+.bottom-container{background: rgb(102, 191, 191, .2);
+  position: relative;
+    top: 15px;
+    padding-top: 20px;
+}
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-title{margin-top: 50px;
+  margin-bottom: 40px;}
+
+.copyright {position: relative;
+    bottom: 15px;
+  font-size: 1rem;}
+
+.design-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.email-icon{width: 75px;
+margin-right: 20px;}
+
+.email-icon:hover {color:white;}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+opacity: 0.25;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  opacity: 0.25;
+}
+
+
+.intro-desc{
+  text-align: left;
+  line-height: 2;
+  color: #40514e;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  margin-top: 50px;
+}
+
+.intro-greeting{ margin-top: 30px;
+margin-bottom: 30px;}
+
+.middle-container {margin-bottom: 100px;}
+
+.profile{
+  width: 50%;
+  margin: 125px auto 125px auto;
+}
+
+.profile-img {width: 25%;}
+
+.skills{margin-top: 100px;}
+
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.twitter-icon{width: 50px;
+margin-bottom: 14px;}
